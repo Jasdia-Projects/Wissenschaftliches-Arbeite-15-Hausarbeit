@@ -1,0 +1,54 @@
+[
+  {
+    "id": "src:DSGVO",
+    "shortTitle": "Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates",
+    "title": "Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates zum  Schutz natürlicher Personen bei  der  Verarbeitung personenbezogener Daten, zum  freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) ",
+    "type":"legislation",
+    "author": [
+      { "family": "o.V." }
+    ],
+    "issued": "2016",
+    "publisher":"Europaparlament",
+    "URL":"https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679"
+  },
+  {
+    "id": "src:e-privacy",
+    "shortTitle": "Verordnung über Privatsphäre und elektronische Kommunikation",
+    "title": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie2002/58/EG",
+    "type":"legislation",
+    "author": [
+      { "family": "o.V." }
+    ],
+    "issued": "2017",
+    "publisher":"Europaparlament",
+    "URL":"https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:52017PC0010"
+  },
+  {
+    "id":"src:Datenschutzaufsicht",
+    "title":"Datenschutzaufsicht nach der EU-Datenschutz-Grundverordnung",
+    "publisher":"Springer Vieweg, Wiesbaden",
+    "author":[{ "family": "Foßnagel, A."} ],
+    "type":"book",
+    "ISBN":"978-3-658-18506-0",
+    "issued":"2017"
+  },
+  {
+    "id": "src:BVDW",
+    "title": "Aktuelle Informationen zur ePrivacy-Verordnung",
+    "publisher": "Bundesverband Digitale Wirtschaft (BVDW) e.V.",
+    "author": [
+      {"family": "o.V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          26
+        ]
+      ]
+    },
+    "URL": "https://www.bvdw.org/themen/recht/kommunikationsrecht-eprivacy/"
+  }
+]
