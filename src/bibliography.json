@@ -50,5 +50,62 @@
       ]
     },
     "URL": "https://www.bvdw.org/themen/recht/kommunikationsrecht-eprivacy/"
-  }
+  },
+  {
+    "id": "src:EUP-DSGVO-Anwendung",
+      "title": "DSGVO: Nun entscheiden Sie über Ihre digitale Privatsphäre",
+      "publisher": "Europäisches Parlament",
+      "author": [
+        {"family": "o.V."}
+      ],
+      "type": "webpage",
+      "accessed": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            8
+          ]
+        ]
+      },
+      "URL": "https://www.europarl.europa.eu/news/de/headlines/society/20180522STO04023/dsgvo-nun-entscheiden-sie-uber-ihre-digitale-privatsphare"
+  },
+  {
+      "id": "src:EUP-DSGVO-Verabschiedung",
+      "title": "Parlament verabschiedet EU-Datenschutzreform – EU fit fürs digitale Zeitalter",
+      "publisher": "Europäisches Parlament",
+      "author": [
+        {"family": "o.V."}
+      ],
+      "type": "webpage",
+      "accessed": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            15
+          ]
+        ]
+      },
+      "URL": "https://www.europarl.europa.eu/news/de/press-room/20160407IPR21776/parlament-verabschiedet-eu-datenschutzreform-eu-fit-furs-digitale-zeitalter"
+  },
+  {
+      "id": "src:EUP-DSGVO-Veroefentlichung",
+      "title": "EU-DSGVO im EU-Amtsblatt veröffentlicht",
+      "publisher": "Berufsverband der Datenschutzbeauftragten Deutschlands (BvD) e.V.",
+      "author": [
+        {"family": "Kramer, R."}
+      ],
+      "type": "webpage",
+      "accessed": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            15
+          ]
+        ]
+      },
+      "URL": "https://www.bvdnet.de/en/eu-dsgvo-im-eu-amtsblatt-veroeffentlicht/"
+    }
 ]
