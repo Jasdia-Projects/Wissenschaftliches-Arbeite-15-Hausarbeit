@@ -1,4 +1,4 @@
-In dieser Hausarbeit werden die gesellschaftlichen Veränderungen durch die Datenschutzgrundverordnung (+ ) und der Datenschutzrichtlinie für elektronische Kommunikation (+ ) thematisiert. Datenschutz ist nicht wirklich neu, bereits 1997 gab es auf Europäischer Ebene (Zitat eu website - verlauf der Verordnung) Richtlinien zu dem Umgang mit Daten.
+In dieser Hausarbeit werden die gesellschaftlichen Veränderungen durch die Datenschutzgrundverordnung (im Folgenden DSGVO) und der Datenschutzrichtlinie für elektronische Kommunikation (im Folgenden e-privacy-Verordnung) thematisiert. Datenschutz ist nicht wirklich neu, bereits 1995 gab es auf Europäischer Ebene (@src:EUP-DSGVO-Verabschiedung) Richtlinien zu dem Umgang mit Daten.
 
 Zuden alten Richtlinien...
 
