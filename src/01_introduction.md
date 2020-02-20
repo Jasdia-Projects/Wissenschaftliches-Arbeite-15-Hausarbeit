@@ -1,5 +1,5 @@
 ---
-    header-title: Exposé
+    header-title: DSGVO und ePV - gesellschaftliche Auswirkungen
     title: "e-privacy und DSGVO: gesellschaftliche Auswirkungen der neuen Rechtslage"
     
     author: Sandra Bernich, Jonas Huhndorf
