@@ -13,3 +13,5 @@ Personenbezogene Daten sind alle Informationen (2.1 verbraucherfragen studie)
 Diese zu schützen hat oberste Priorität, weil...
 
 Für die Hausarbeit wird die Thematik auf den deutschen Raum eingeschränkt. Gesellschaftliche Auswirkungen lassen sich hier besser bewerten und untersuchen. Auch werden in der Hausarbeit aufgrund der Kürze nicht alle Aspekte der beiden Verordnungen beleuchtet. Es wird ein Fokus auf große Veränderungen in der Gesellschaft durch die DSGVO gelegt und die Auswirkungen der ePV in naher Zukunft betrachtet.
+
+Fragestellung fehlt
