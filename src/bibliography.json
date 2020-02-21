@@ -107,5 +107,16 @@
         ]
       },
       "URL": "https://www.bvdnet.de/en/eu-dsgvo-im-eu-amtsblatt-veroeffentlicht/"
+    },
+    {
+      "id": "@src:NJW-Special-2014-632",
+      "title": "Das öffentliche Interesse an der Strafverfolgung",
+      "publisher": "NJW-Spezial",
+      "author": [
+        {"family": "Heim, M."}
+      ],
+      "type": "article-journal",
+      "page": "632",
+      "number": "20"
     }
 ]
