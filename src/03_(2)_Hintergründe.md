@@ -1,1 +1,4 @@
 # Hintergründe zur DSGVO und e-privacy-Verordnung
+Aktuell befinden sich die Regelungen rund um den Datenschutz im Umbruch. Auf zukünftige Technologien war kaum einer gefasst und was die Zukunft bringen wird ist nur abzuschätzen.
+
+Die DSGVO löst die Datenschutzrichtlinie 95/46/EG aus dem Jahr 1995 ab. Da zu der Zeit das Internet noch eine neue Entwicklung war, umfasst die Richtline nicht die heutigen Datenverarbeitungsmöglichkeiten. Aufgrund dessen hat die EU beschlossen eine neue Gesetzesgrundlage zu schaffen (@src:EUP-DSGVO-Verabschiedung). Um die Verordnung auch bei zukünftigen Ereignissen anwenden zu können wurden alle Regelungen technologieunabhängig formuliert (vgl. Präambel Abs. 15, DSGVO).
