@@ -109,7 +109,7 @@
       "URL": "https://www.bvdnet.de/en/eu-dsgvo-im-eu-amtsblatt-veroeffentlicht/"
     },
     {
-      "id": "@src:NJW-Special-2014-632",
+      "id": "src:NJW-Special-2014-632",
       "title": "Das öffentliche Interesse an der Strafverfolgung",
       "publisher": "NJW-Spezial",
       "author": [
@@ -117,6 +117,25 @@
       ],
       "type": "article-journal",
       "page": "632",
-      "number": "20"
+      "number": " Heft 20"
+    }
+    {
+      "id": "src:Konsultation-ePR",
+      "title": "Konsultation-ePR",
+      "publisher": "Europäisches Parlament",
+      "author": [
+        {"family": "o.V."}
+      ],
+      "type": "webpage",
+      "accessed": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            23
+          ]
+        ]
+      },
+      "URL": "https://ec.europa.eu/digital-single-market/en/news/summary-report-public-consultation-evaluation-and-review-eprivacy-directive"
     }
 ]
