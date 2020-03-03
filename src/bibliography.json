@@ -137,5 +137,119 @@
         ]
       },
       "URL": "https://ec.europa.eu/digital-single-market/en/news/summary-report-public-consultation-evaluation-and-review-eprivacy-directive"
-    }
+    },
+    {
+      "id": "src:Spiegel-Reaktionen-DSGVO",
+      "title": "Reaktionen auf die neuen EU-Regeln",
+      "publisher": "SPIEGEL Netzwelt",
+      "author": [
+        {"family": "o.V."}
+      ],
+      "type": "webpage",
+      "accessed": {
+        "date-parts": [
+          [
+            2020,
+            2,
+            26
+          ]
+        ]
+      },
+      "URL": "https://www.spiegel.de/fotostrecke/datenschutzgrundverordnung-kuriose-reaktionen-von-nutzern-fotostrecke-161004.html"
+  },
+  {
+    "id": "src:KaktusKlub-Satiere-Mail",
+    "title": "Dürfen wir Sie weiter zuscheißen?",
+    "publisher": "Kaktus Klub",
+    "author": [
+      {"family": "o.V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "URL": "https://kaktus-klub.de/2018/05/25/ehrliche-dsvgo-mail-ihre-daten-sind-uns-schnurz/"
+  },
+  {
+    "id": "src:Interview-Ralf-Bendrath",
+    "title": "Interview zur DSGVO: Mit so krassen Reaktionen wurde wirklich nicht gerechnet",
+    "publisher": "treffpunkteuropa.de",
+    "author": [
+      {"family": "Ansgar Skoda"}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          26
+        ]
+      ]
+    },
+    "URL": "https://kaktus-klub.de/2018/05/25/ehrliche-dsvgo-mail-ihre-daten-sind-uns-schnurz/"
+  },
+  {
+    "id": "src:Facebook-Konto-loeschen",
+    "title": "Wie kann ich mein Facebook-Konto dauerhaft löschen?",
+    "publisher": "Facebook",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          27
+        ]
+      ]
+    },
+    "URL": "https://de-de.facebook.com/help/224562897555674"
+  },
+  {
+    "id": "src:Facebook-Datenrichtlinien",
+    "title": "Datenrichtlinie",
+    "publisher": "Facebook",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "URL": "https://www.facebook.com/privacy/explanation"
+  },
+  {
+    "id": "src:Welt-DSGVO",
+    "title": "Das DSGVO ist ein Papiertiger mit fragwürdigem Nutzen",
+    "publisher": "Welt",
+    "author": [
+      {"family": "Brenner, P."}
+    ],
+    "type": "Article",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          28
+        ]
+      ]
+    },
+    "URL": "https://www.welt.de/wirtschaft/bilanz/article180699912/Datenschutz-Das-DSGVO-ist-ein-Papiertiger-mit-fragwuerdigem-Nutzen.html"
+  }
 ]
