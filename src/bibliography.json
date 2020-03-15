@@ -251,5 +251,137 @@
       ]
     },
     "URL": "https://www.welt.de/wirtschaft/bilanz/article180699912/Datenschutz-Das-DSGVO-ist-ein-Papiertiger-mit-fragwuerdigem-Nutzen.html"
+  },
+  {
+    "id": "src:8-Mai-2019_Datenschutzbericht",
+    "title": "Datenschutzbeauf­tragter übergibt Tätig­keits­bericht an Schäuble",
+    "publisher": "Deutscher Bundestag",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.bundestag.de/dokumente/textarchiv/2019/kw19-datenschutzbericht-640928"
+  },
+  {
+    "id": "src:Datenschutzanpassung",
+    "title": "Koalition entschärft den Datenschutz",
+    "publisher": "Der Tagesspiegel",
+    "author": [
+      {"family": "Christ, S."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.tagesspiegel.de/politik/gesetzesentwurf-zur-dsgvo-koalition-entschaerft-den-datenschutz/24493474.html"
+  },
+  {
+    "id": "src:openPetition-Petition",
+    "title": "Pressefreiheit! Gegen EU-Datenschutz-Grundverordnung (DSGVO) Für Fotografen, Kunst, Presse",
+    "publisher": "openPetition gGmbH",
+    "author": [
+      {"family": "Jacobs, D."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.openpetition.de/petition/online/aufhebung-der-eu-datenschutz-grundverordnung-dsgvo-fuer-fotografen-agenturen-kunst-presse"
+  },
+  {
+    "id": "src:Facebook-Petition-Promo",
+    "publisher": "facebook",
+    "author": [
+      {"family": "Wiesner, S."}
+    ],
+    "type": "entry",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.facebook.com/sportportraits/posts/online-petition-gegen-die-dsgvo-bitte-unterschreiben-die-dsgvo-bewegt-euch-dutze/2010813925610200/"
+  },
+  {
+    "id": "src:openPetition-gescheiterte_Petition",
+    "title": "Neue DSGVO belastet Vereine u. kleinere/mittlere Unternehmen",
+    "publisher": "openPetiton gGmbh",
+    "author": [
+      {"family": "Müller, U."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.openpetition.de/petition/online/neue-datenschutz-grundverordnung-belastet-vereine-und-kleinere-mittlere-unternehmen"
+  },
+  {
+    "id": "src:Cloud-Act_vs_DSGVO-Boerse",
+    "title": "US-Cloud Act vs. DSGVO – Steht unser Datenschutz auf dem Spiel?",
+    "publisher": "marketing Börse",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.marketing-boerse.de/news/details/1826-us-cloud-act-vs-dsgvo--steht-unser-datenschutz-auf-dem-spiel/146859"
+  },
+  {
+    "id": "src:Cloud-Act_vs_DSGVO-Datensicherheit",
+    "title": "DSGVO vs. CLOUD Act: EU-Unternehmen im Spannungsfeld",
+    "publisher": "datensicherheit.de",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          15
+        ]
+      ]
+    },
+    "URL": "https://www.datensicherheit.de/aktuelles/dsgvo-cloud-act-eu-unternehmen-spannungsfeld-34292"
   }
 ]
