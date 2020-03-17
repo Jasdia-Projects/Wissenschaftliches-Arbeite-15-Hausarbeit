@@ -1,3 +1,3 @@
 # Auswirkungen der DSGVO und E-Privacy-Verordnung
 
-Bla
+Der Datenschutz schafft Anreiz zum Missbrauch. Der Wert an Daten steigt.
