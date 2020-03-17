@@ -1,5 +1,5 @@
 ---
-    header-title: Hausarbeit
+    header-title: Datenschutz
     title: "e-privacy und DSGVO: gesellschaftliche Auswirkungen der neuen Rechtslage"
     
     author: Sandra Bernich, Jonas Huhndorf
