@@ -12,7 +12,7 @@
     "URL":"https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32016R0679"
   },
   {
-    "id": "src:e-privacy",
+    "id": "src:ePV",
     "shortTitle": "Verordnung über Privatsphäre und elektronische Kommunikation",
     "title": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie2002/58/EG",
     "type":"legislation",
@@ -383,5 +383,24 @@
       ]
     },
     "URL": "https://www.datensicherheit.de/aktuelles/dsgvo-cloud-act-eu-unternehmen-spannungsfeld-34292"
+  },
+  {
+    "id": "src:Konsultation",
+      "title": "Konsoltationen",
+      "publisher": "Europäisches Parlament",
+      "author": [
+        {"family": "o.V."}
+      ],
+      "type": "webpage",
+      "accessed": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            19
+          ]
+        ]
+      },
+      "URL": "https://ec.europa.eu/info/consultations_de"
   }
 ]
