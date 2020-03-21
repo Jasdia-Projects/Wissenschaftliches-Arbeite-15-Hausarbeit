@@ -4,7 +4,7 @@ Im Folgendem werden die gesellschaftlichen Veränderungen durch die Datenschutzg
 
 Die DSGVO regelt seit 25. Mai 2018 die Datenverarbeitung und Datenverkehr von personen bezogenen Daten von natürlichen Personen. Die Verordnung bildet den Anfang, die ältere Richtlinien auf Europäischer Ebene an die aktuellen Entwicklungen anzupassen und für zukünftige Technologien zu erweitern. Die ePV soll neue Regeln für die elektronische Kommunikation in der EU festlegen. Basis ist die DSGVO und die Datenschutzrichtlinie für elektronische Kommunikation 2002/58/EG (im Folgenden ePR).
 
-Datenschutz ist nicht neu, bereits 1995 gab es auf Europäischer Ebene Richtlinien (@src:EUP-DSGVO-Verabschiedung) zu dem Umgang mit persönlichen Daten. Im Vergleich zu einer Richtlinie, muss eine Verordnung nicht in nationlaes Recht umgesetzt werden. Damit sind die beiden Verordnungen auch ein Teil des Prozesses der Vereinheitlichung von den einzelnen Mitgliedstaaten zu einem Europa.
+Datenschutz ist nicht neu, bereits 1995 gab es auf Europäischer Ebene Richtlinien (@src:EUP-DSGVO-Verabschiedung) zu dem Umgang mit persönlichen Daten. Im Vergleich zu einer Richtlinie, muss eine Verordnung nicht in nationlaes Recht umgesetzt werden. Damit sind die beiden Verordnungen auch ein Teil des Prozesses der Vereinheitlichung von den einzelnen Mitgliedstaaten zu einem Europa. Im Folgendem Text wird sich auf den Entwurf vom 15.11.2019 bezogen. Änderungen die bis zum März 2020 bekannt geworden sind werden erwähnt.
 
 Der Schutz persönlicher Daten ist wichtig weil...
 Erpressung,
