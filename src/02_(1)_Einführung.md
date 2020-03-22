@@ -10,4 +10,6 @@ Da Datenschutz nicht nur den Bürger an sich betrifft, sondern besonders Unterne
 
 Die Relevanz des Datenschutzes wird durchaus unterschiedlich betrachtet (vgl. @src:CWS). Dies ist nicht nur regional begründbar, sondern auch stark situationsabhängig abhängig und je nach Datentyp verschieden (vgl. @src:Preibusch). Doch ist die Angst um den Missbrauch seiner eigenen Daten die größte in Deutschland (vgl. @src:GÄD). Daten sind zwar "nur" Fakten, doch zeigen sie Unterschiede auf und diese Unterschiede machen uns angreifbar, erkennbar oder auch wertvoller. Datenschutz ist also für unsere Sicherheit ein elementarer Bestandteil. Die persönlichen Daten zu schützen fällt außerdem in das Recht auf Privatsphäre (vgl. @src:Perso).
 
+HIER REIN JONAS
+
 In den nächsten Kapiteln wird es nun darum gehen, welche Auswirkungen durch die Verordnungen hervorgerufen werden, subjektiv und objektiv. Am Ende steht die Frage: "Hat die DSGVO die gewünschte Veränderung für die Gesellschaft erreicht und welche Auswirkungen wird die ePV noch bringen?
