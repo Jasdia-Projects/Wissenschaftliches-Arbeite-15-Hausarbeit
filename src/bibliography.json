@@ -459,5 +459,24 @@
       ]
     },
     "URL": "https://europa.eu/european-union/eu-law/legal-acts_de"
+  },
+  {
+    "id": "src:DMB",
+    "title": "Themenbeobachtung ePrivacy-Verordnung",
+    "publisher": "Der Deutsche Mittelstands-Bund e.V",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.mittelstandsbund.de/politik/monitoring/digitalisierung/monitoring-e-privacy/"
   }
 ]
