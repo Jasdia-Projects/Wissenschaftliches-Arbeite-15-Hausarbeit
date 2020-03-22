@@ -1,5 +1,5 @@
 ---
-    header-title: Datenschutz
+    header-title: Auswirkungen der neuen Rechtslage
     title: "e-privacy und DSGVO: gesellschaftliche Auswirkungen der neuen Rechtslage"
     
     author: Sandra Bernich, Jonas Huhndorf
