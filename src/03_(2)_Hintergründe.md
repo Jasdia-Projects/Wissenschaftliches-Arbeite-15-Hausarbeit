@@ -1,4 +1,4 @@
-# Hintergründe zur DSGVO und e-privacy-Verordnung
+# Hintergründe zur DSGVO und e-Privacy Verordnung
 
 Aktuell werden viele Regelungen, besonders in der Thematik des Datenschutzes, von der EU überarbeitet. Durch die schnellen technologischen Entwicklungen sind neue Möglichkeiten der Datenspeicherung und -verarbeitung entstanden. Mit diesen Veränderungen hatte niemand bei dem Entwurf der alten Gesetzestexte gerechnet und somit umfassen die Regelungen nicht mehr alle denkbaren Szenarien. Da mittlerweile nationale Grenzen ebenfalls an Bedeutung verlieren, versucht die EU nun einheitliche Rechtsgrundlagen zu schaffen.
 
