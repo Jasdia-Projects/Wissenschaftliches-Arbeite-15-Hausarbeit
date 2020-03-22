@@ -386,59 +386,78 @@
   },
   {
     "id": "src:Konsultation",
-      "title": "Konsoltationen",
-      "publisher": "Europäisches Parlament",
-      "author": [
-        {"family": "o.V."}
-      ],
-      "type": "webpage",
-      "accessed": {
-        "date-parts": [
-          [
-            2020,
-            3,
-            19
-          ]
+    "title": "Konsoltationen",
+    "publisher": "Europäisches Parlament",
+    "author": [
+      {"family": "o.V."}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          19
         ]
-      },
-      "URL": "https://ec.europa.eu/info/consultations_de"
+      ]
+    },
+    "URL": "https://ec.europa.eu/info/consultations_de"
   },
   {
     "id": "src:Preibusch",
-      "title": "Big Data, Small Money, No Privacy? ",
-      "publisher": "Europäisches Parlament",
-      "author": [
-        {"family": "Preibusch, Sören"}
-      ],
-      "type": "Article",
-      "accessed": {
-        "date-parts": [
-          [
-            2020,
-            3,
-            22
-          ]
+    "title": "Big Data, Small Money, No Privacy? ",
+    "publisher": "Europäisches Parlament",
+    "author": [
+      {"family": "Preibusch, Sören"}
+    ],
+    "type": "Article",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
         ]
-      },
-      "URL": "http://preibusch.de/publications/Preibusch__Big-Data_Value-of-Privacy_digma-2013.pdf"
+      ]
+    },
+    "URL": "http://preibusch.de/publications/Preibusch__Big-Data_Value-of-Privacy_digma-2013.pdf"
   },
   {
     "id": "src:Stel-BVDW",
-      "title": "Stellungnahme des Bundesverbandes Digitale Wirtschaft (BVDW) e.V. zum Fortschrittsbericht der bulgarischen Ratspräsidentschaft vom 11.01.2018bezogen auf den Textentwurf 2017/0003 (COD) zur Verordnung des europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie 2002/58/EG (Verordnung über Privatsphäre und elektronische Kommunikation-ePV) vom 05.12.2017 ",
-      "publisher": "BVDW eV.",
-      "author": [
-        {"family": "o. V."}
-      ],
-      "type": "Article",
-      "accessed": {
-        "date-parts": [
-          [
-            2020,
-            3,
-            22
-          ]
+    "title": "Stellungnahme des Bundesverbandes Digitale Wirtschaft (BVDW) e.V. zum Fortschrittsbericht der bulgarischen Ratspräsidentschaft vom 11.01.2018bezogen auf den Textentwurf 2017/0003 (COD) zur Verordnung des europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie 2002/58/EG (Verordnung über Privatsphäre und elektronische Kommunikation-ePV) vom 05.12.2017 ",
+    "publisher": "BVDW eV.",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "Article",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
         ]
-      },
-      "URL": "https://www.bvdw.org/fileadmin/bvdw/upload/dokumente/recht/e_privacy_verordnung/BVDW_Stellungnahme_EU-Rat_ePV_01242018.pdf"
-    }
+      ]
+    },
+    "URL": "https://www.bvdw.org/fileadmin/bvdw/upload/dokumente/recht/e_privacy_verordnung/BVDW_Stellungnahme_EU-Rat_ePV_01242018.pdf"
+  },
+  {
+    "id": "src:Verordnung_vs_Richtlinie",
+    "title": "Verordnungen, Richtlinien und sonstige Rechtsakte",
+    "publisher": "Europäische Union",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "Website",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://europa.eu/european-union/eu-law/legal-acts_de"
+  }
 ]
