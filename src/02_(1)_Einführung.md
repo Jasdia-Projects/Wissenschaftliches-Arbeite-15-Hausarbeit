@@ -15,4 +15,4 @@ Daten sind in der aktellen Welt langsam aber sicher viel Wert (quelle pdf). Pers
 
 Rolle der Wirtschaft nennen. Und auch das diese nicht an den Gesprächen / Verhandlungen teilnimmt.
 
-Fragestellung fehlt
+Hat die DSGVO die gewünschte Veränderung für die Gesellschaft gebracht/erreicht und welche Auswirkungen wird die ePV noch bringen?
