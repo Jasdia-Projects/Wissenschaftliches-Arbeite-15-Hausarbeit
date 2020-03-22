@@ -478,5 +478,52 @@
       ]
     },
     "URL": "https://www.mittelstandsbund.de/politik/monitoring/digitalisierung/monitoring-e-privacy/"
+  },
+  {
+    "id": "src:CWS",
+    "title": "Where people are most comfortable sharing their data",
+    "publisher": "Statistica",
+    "author": [
+      {"family": "Buchholz, Katharina"}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.statista.com/chart/21081/countries-most-comfortable-to-share-personal-data-online/"
+  },
+  {
+    "id": "src:GÄD",
+    "title": "Das sind die größten digitalen Ängste der Deutschen",
+    "publisher": "Horizont",
+    "author": [
+      {"family": "Hein, David"}
+    ],
+    "type": "webpage",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.horizont.net/medien/nachrichten/datenmissbrauch-cyber-crime-ueberwachung-das-sind-die-groessten-digitalen-aengste-der-deutschen-176177"
+  },
+  {
+    "id":"src:Perso",
+    "title":"Duden Recht A-Z. Fachlexikon für Studium, Ausbildung und Beruf",
+    "publisher":"Bibliographisches Institut Berlin",
+    "author":[{ "family": "o. V."} ],
+    "type":"book",
+    "issued":"2015",
+    "edition": 3
   }
 ]
