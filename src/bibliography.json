@@ -525,5 +525,43 @@
     "type":"book",
     "issued":"2015",
     "edition": 3
+  },
+  {
+    "id": "src:RKI-Haendydaten-tagesschau",
+    "title": "Mit Apps gegen die Pandemie?",
+    "publisher": "tagesschau.de",
+    "author": [
+      {"family": "Becker, K."}
+    ],
+    "type": "article",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          23
+        ]
+      ]
+    },
+    "URL": "https://www.tagesschau.de/inland/coronavirus-forschung-bab-101.html"
+  },
+  {
+    "id": "src:Google-Play-Apps",
+    "title": "Number of available applications in the Google Play Store from December 2009 to March 2020",
+    "publisher": "statita",
+    "author": [
+      {"family": "Clement, J."}
+    ],
+    "type": "graphic",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          23
+        ]
+      ]
+    },
+    "URL": "https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/"
   }
 ]
