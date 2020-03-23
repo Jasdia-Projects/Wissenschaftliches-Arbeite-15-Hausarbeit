@@ -14,3 +14,5 @@ Idee:
 Prozess ist an sich wichtig. Nationale Unterschiede sollten nicht außer Acht gelassen werden. Eine zwanghafte meinung bringt niemanden dichter zusammen.
 
 DSGVO - Widerstand und einige probleme #cloud_act. Aber auch eine Homogenisierung in manchen bereichen. Viel Verunsicherung.
+
+\pagebreak
