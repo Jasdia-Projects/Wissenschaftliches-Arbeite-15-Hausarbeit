@@ -16,3 +16,10 @@ Prozess ist an sich wichtig. Nationale Unterschiede sollten nicht außer Acht ge
 Die (++DSGVO) hat zwar auch zu einigen Verbesserungen beim Datenschutz geführt, doch durch die Verunsicherung der Bürger ging diese Verbesserung zu Lasten vom Angebot im Internet. Mit der Anwendbarkeit der (++DSGVO) wurden diverse digitale Angebote teilweise temporär, teilweise entgültig eingestellt und die Verunsicherung der Bürger war zu spüren. Die Anzahl der Beschwerden im ersten Jahr in Deutschland dokumentiert die unzufriedenheit der Bürger. Daher bleibt am Ende abzuwägen, ob die Ziele eines Gesetzes oder die Zufriedenheit der Bevölkerung überwiegt.
 
 \pagebreak
+
+# Eidesstattliche Erklärung
+
+Hiermit erklären wir, dass wir die vorliegende Hausarbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt haben.
+Die Stellen der Hausarbeit, die andere Quellen im Wortlaut oder dem Sinn nach entnommen wurden, sind durch Angabe der Herkunft kenntlich gemacht. Dies gilt auch für Zeichnungen, Skizzen, bildliche Darstellungen sowie für Quellen aus dem Internet.
+
+\pagebreak
