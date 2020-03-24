@@ -7,7 +7,6 @@
     Studiengang: Wirtschaftsinformatik
     Matrikelnummer: 9684, 9738
     keywords: [keyword1, keyword2]
-    glossaryafter: false
 ---
 
 \pagebreak
