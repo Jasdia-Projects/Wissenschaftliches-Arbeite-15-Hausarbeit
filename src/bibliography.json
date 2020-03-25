@@ -25,7 +25,7 @@
   {
     "id": "src:BVDW",
     "title": "Aktuelle Informationen zur ePrivacy-Verordnung",
-    "publisher": "Bundesverband Digitale Wirtschaft (BVDW) e.V.",
+    "publisher": "Bundesverband Digitale Wirtschaft (BVDW) e. V.",
     "author": [
       {"family": "o. V."}
     ],
@@ -82,7 +82,7 @@
   {
       "id": "src:EUP-DSGVO-Veroeffentlichung",
       "title": "EU-DSGVO im EU-Amtsblatt veröffentlicht",
-      "publisher": "Berufsverband der Datenschutzbeauftragten Deutschlands (BvD) e.V.",
+      "publisher": "Berufsverband der Datenschutzbeauftragten Deutschlands (BvD) e. V.",
       "author": [
         {"family": "Kramer, R."}
       ],
@@ -149,7 +149,7 @@
   },
   {
     "id": "src:KaktusKlub-Satiere-Mail",
-    "title": "Dürfen wir Sie weiter zuscheißen?",
+    "title": "Dürfen wir Sie weiter zuscheißen? ",
     "publisher": "Kaktus Klub",
     "author": [
       {"family": "o. V."}
@@ -187,7 +187,7 @@
   },
   {
     "id": "src:Facebook-Konto-loeschen",
-    "title": "Wie kann ich mein Facebook-Konto dauerhaft löschen?",
+    "title": "Wie kann ich mein Facebook-Konto dauerhaft löschen? ",
     "publisher": "Facebook",
     "author": [
       {"family": "o. V."}
@@ -338,7 +338,7 @@
   },
   {
     "id": "src:Cloud-Act_vs_DSGVO-Boerse",
-    "title": "US-Cloud Act vs. DSGVO – Steht unser Datenschutz auf dem Spiel?",
+    "title": "US-Cloud Act vs. DSGVO – Steht unser Datenschutz auf dem Spiel? ",
     "publisher": "marketing Börse",
     "author": [
       {"family": "o. V."}
@@ -414,7 +414,7 @@
   },
   {
     "id": "src:Stel-BVDW",
-    "title": "Stellungnahme des Bundesverbandes Digitale Wirtschaft (BVDW) e.V. zum Fortschrittsbericht der bulgarischen Ratspräsidentschaft vom 11.01.2018bezogen auf den Textentwurf 2017/0003 (COD) zur Verordnung des europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie 2002/58/EG (Verordnung über Privatsphäre und elektronische Kommunikation-ePV) vom 05.12.2017 ",
+    "title": "Stellungnahme des Bundesverbandes Digitale Wirtschaft (BVDW) e. V. zum Fortschrittsbericht der bulgarischen Ratspräsidentschaft vom 11.01.2018bezogen auf den Textentwurf 2017/0003 (COD) zur Verordnung des europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie 2002/58/EG (Verordnung über Privatsphäre und elektronische Kommunikation-ePV) vom 05.12.2017",
     "publisher": "BVDW eV.",
     "author": [
       {"family": "o. V."}
@@ -453,7 +453,7 @@
   {
     "id": "src:DMB",
     "title": "Themenbeobachtung ePrivacy-Verordnung",
-    "publisher": "Der Deutsche Mittelstands-Bund e.V",
+    "publisher": "Der Deutsche Mittelstands-Bund e. V.",
     "author": [
       {"family": "o. V."}
     ],
@@ -518,7 +518,7 @@
   },
   {
     "id": "src:RKI-Haendydaten-tagesschau",
-    "title": "Mit Apps gegen die Pandemie?",
+    "title": "Mit Apps gegen die Pandemie? ",
     "publisher": "tagesschau.de",
     "author": [
       {"family": "Becker, K."}
@@ -556,7 +556,7 @@
   },
   {
     "id": "src:General-safe",
-    "title": "Do you think your personal data is generally safe on the internet?",
+    "title": "Do you think your personal data is generally safe on the internet? ",
     "publisher": "Statista Inc.",
     "author": [
       {"family": "Bitkom"}
