@@ -2,10 +2,10 @@
   {
     "id": "src:ePV",
     "shortTitle": "Verordnung über Privatsphäre und elektronische Kommunikation",
-    "title": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie2002/58/EG",
+    "title": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Achtung des Privatlebens und den Schutz personenbezogener Daten in der elektronischen Kommunikation und zur Aufhebung der Richtlinie 2002/58/EG",
     "type":"legislation",
     "author": [
-      { "family": "o.V." }
+      { "family": "o. V." }
     ],
     "issued": "2017",
     "publisher":"Europaparlament",
@@ -15,7 +15,9 @@
     "id":"src:Datenschutzaufsicht",
     "title":"Datenschutzaufsicht nach der EU-Datenschutz-Grundverordnung",
     "publisher":"Springer Vieweg, Wiesbaden",
-    "author":[{ "family": "Foßnagel, A."} ],
+    "author":[
+      { "family": "Foßnagel, A."}
+    ],
     "type":"book",
     "ISBN":"978-3-658-18506-0",
     "issued":"2017"
@@ -25,7 +27,7 @@
     "title": "Aktuelle Informationen zur ePrivacy-Verordnung",
     "publisher": "Bundesverband Digitale Wirtschaft (BVDW) e.V.",
     "author": [
-      {"family": "o.V."}
+      {"family": "o. V."}
     ],
     "type": "webpage",
     "accessed": {
@@ -63,7 +65,7 @@
       "title": "Parlament verabschiedet EU-Datenschutzreform – EU fit fürs digitale Zeitalter",
       "publisher": "Europäisches Parlament",
       "author": [
-        {"family": "o.V."}
+        {"family": "o. V."}
       ],
       "type": "webpage",
       "accessed": {
@@ -131,7 +133,7 @@
       "title": "Reaktionen auf die neuen EU-Regeln",
       "publisher": "SPIEGEL Netzwelt",
       "author": [
-        {"family": "o.V."}
+        {"family": "o. V."}
       ],
       "type": "webpage",
       "accessed": {
@@ -150,7 +152,7 @@
     "title": "Dürfen wir Sie weiter zuscheißen?",
     "publisher": "Kaktus Klub",
     "author": [
-      {"family": "o.V."}
+      {"family": "o. V."}
     ],
     "type": "webpage",
     "accessed": {
@@ -169,7 +171,7 @@
     "title": "Interview zur DSGVO: Mit so krassen Reaktionen wurde wirklich nicht gerechnet",
     "publisher": "treffpunkteuropa.de",
     "author": [
-      {"family": "Ansgar Skoda"}
+      {"family": "Skoda, A."}
     ],
     "type": "webpage",
     "accessed": {
@@ -377,7 +379,7 @@
     "title": "Konsoltationen",
     "publisher": "Europäisches Parlament",
     "author": [
-      {"family": "o.V."}
+      {"family": "o. V."}
     ],
     "type": "webpage",
     "accessed": {
@@ -396,7 +398,7 @@
     "title": "Big Data, Small Money, No Privacy? ",
     "publisher": "Europäisches Parlament",
     "author": [
-      {"family": "Preibusch, Sören"}
+      {"family": "Preibusch, S."}
     ],
     "type": "Article",
     "accessed": {
@@ -472,7 +474,7 @@
     "title": "Where people are most comfortable sharing their data",
     "publisher": "Statistica",
     "author": [
-      {"family": "Buchholz, Katharina"}
+      {"family": "Buchholz, K."}
     ],
     "type": "webpage",
     "accessed": {
@@ -491,7 +493,7 @@
     "title": "Das sind die größten digitalen Ängste der Deutschen",
     "publisher": "Horizont",
     "author": [
-      {"family": "Hein, David"}
+      {"family": "Hein, D."}
     ],
     "type": "webpage",
     "accessed": {
@@ -595,7 +597,7 @@
     "title": "Number of requests for Google user data from public authorities, institutions and courts in Germany from 2nd half 2009 to 1st half 2019",
     "publisher": "Google",
     "author": [
-      {"family": "o.V."}
+      {"family": "o. V."}
     ],
     "type": "graphic",
     "accessed": {
@@ -616,7 +618,7 @@
     "author": [
       {"family": "o. V."}
     ],
-    "type": "paper-conference",
+    "type": "report",
     "accessed": {
       "date-parts": [
         [
