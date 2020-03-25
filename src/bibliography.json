@@ -551,5 +551,81 @@
       ]
     },
     "URL": "https://www.statista.com/statistics/266210/number-of-available-applications-in-the-google-play-store/"
+  },
+  {
+    "id": "src:General-safe",
+    "title": "Do you think your personal data is generally safe on the internet?",
+    "publisher": "Statista Inc.",
+    "author": [
+      {"family": "Bitkom"}
+    ],
+    "type": "graphic",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.statista.com/statistics/448431/perception-of-online-data-security-in-germany/"
+  },
+  {
+    "id": "src:Joint",
+    "title": "Joint Industry Letter on the future of ePrivacy Regulation",
+    "publisher": "European Competitive Telecommunications Association, et. al",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "paper-conference",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.ectaportal.com/news/ecta-press-releases/823-joint-industry-letter-on-the-future-of-the-eprivacy-regulation"
+  },
+  {
+    "id": "src:goole-public",
+    "title": "Number of requests for Google user data from public authorities, institutions and courts in Germany from 2nd half 2009 to 1st half 2019",
+    "publisher": "Google",
+    "author": [
+      {"family": "o.V."}
+    ],
+    "type": "graphic",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.statista.com/statistics/451481/google-user-data-inquiries-by-authorities-germany/"
+  },
+  {
+    "id": "src:Stel-ePV",
+    "title": "Workingpaper ",
+    "publisher": "General Secretariat of the Counc",
+    "author": [
+      {"family": "o. V."}
+    ],
+    "type": "paper-conference",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          22
+        ]
+      ]
+    },
+    "URL": "https://www.bvdw.org/fileadmin/bvdw/upload/dokumente/recht/e_privacy_verordnung/Gesamtstellungnahme_Deutschland_25.07.2019.pdf"
   }
 ]
