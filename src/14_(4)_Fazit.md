@@ -1,6 +1,6 @@
 # Fazit
 
-1. Wurden die geplanten Ziele der Verordnungen erreicht
+1. Wurden die geplanten Ziele der Verordnungen erreicht?
 
 Eine abschließende Antwort kann man für die (+ePV) nicht geben. Die ePV regelt viele wichtige Punkte und nimmmt die Hersteller von Hard- und Software in die Verantwortung. Dass die Verantwortung bei den Herstellern liegt, wird für die breite Öffentlichkeit einen Mehrwert bieten. Doch besteht zum jetzigen Zeitpunkt die Gefahr des \textquotedblleft standardisierten Klickens\textquotedblright, durch die vielen Abfragen, für die Nutzung der Daten. Zu lange und zu viele Informationen führen zu einer undurchsichtigen Informationslage und damit zu keiner sinnvollen Entscheidungsgrundlage. Welche Informationen ausreichen, um eine Entscheidung zu treffen, weiß dennoch keiner. Die Ausnahme vom Datenschutz für Bildern über Kindermissbrauch ist aus gesellschaftlicher Sicht eine positive Entwicklung der Verordnung. Der negative Aspekt ist, das nicht abzusehen ist, welche Ausnahmen noch kommen werden und wo die Grenzen für Datenschutz gezogen werden.
 
@@ -8,16 +8,18 @@ Aus Sicht der Wirtschaft sind einige Regelungen zu weitgehend und zu einschränk
 
 Das Ziel der (++DSGVO), die nationalen Rechte zu harmonisieren, wurde sich durch das Ersetzen einer Richtlinie durch eine Verordnung genährt. Dadurch wurde ein einheitliches Regelwerk für alle Mitgliedsstaaten geschaffen. Aufgrund der bereits diskutierten Öffnungsklauseln und ungenauen Formulierungen ist aber das Ziel nicht erreicht worden. Es gab allerdings eine erhebliche Annährung an das Ziel. Zwar ist durch den einheitlicher geregelten Datenschutz der Datenverkehr im europäische Binnenmarkt leichter geworden. Jedoch überwog statt einer Einigung der Gesellschaft die Skepsis. Gerade in Deutschland wurde auf die neue Gesetzeslage mit viel Widerstand und Rückzug aus dem Internet reagiert. Dieser Rückzug aus dem Internet war weder Ziel noch Absicht der Verfasser der (++DSGVO), trotzdem konnten selbst nationale Gesetztesanpassungen nicht die Skepsis der Bürger nehmen. Trotz allem ist zu beobachten, dass bereit nicht-europäische Länder sich an der (++DSGVO) orientieren und somit eine annährung vom Datenschutzverständnis Länderübergreifend erreicht wurde.
 
-2. Was haben die Verordnungen tatsächlich bewirkt
+2. Was haben die Verordnungen bewirkt?
 
 Die (++DSGVO) hat zu einigen Verbesserungen beim Datenschutz geführt, doch durch die Verunsicherung der Bürger ging diese Verbesserung zu Lasten des Angebotes im Internet. Mit der Anwendbarkeit der (++DSGVO) wurden diverse digitale Angebote teilweise temporär, teilweise entgültig eingestellt. Die Anzahl der Beschwerden im ersten Jahr in Deutschland dokumentiert die unzufriedenheit der Bürger. Daher bleibt am Ende abzuwägen, ob die Ziele eines Gesetzes oder die Akzeptanz in der Bevölkerung bei der Bewertung überwiegt. Trotzdem hat die (++DSGVO) großes Potential, sofern die Lücken geschlossen werden und sie die nationalen Gesetzte, die aus den Öffnungsklauseln entstehen, nicht zu große Unterschiede aufweisen.
 
-Die Antwort für die (+ePV) müsste an dieser Stelle stumm seien, doch ist auch ein Entwicklungsprozess durchaus aufschlussreich.
-Der Prozess der Vereinheitlichung ist wichtig und ein positives Ergebnis bietet viele Vorteile. Nationale Unterschiede sollten dennoch nicht außer Acht gelassen werden, denn eine zwanghafte Meinung bringt niemanden dichter zusammen. Das öffentliche Interesse dürfte geringer als bei der (++DSGVO) ausfallen, denn es handelt sich bei der (+ePV) um eine weiterführende Thematik und der Schreibprozess geht nun schon über viele Jahre und ist reichlich unübersichtlich. Zudem die Informationslage sehr wirtschaftlich ausgerichtet.
+Die Antwort für die (+ePV) müsste an dieser Stelle stumm sein, doch ist auch ein Entwicklungsprozess durchaus aufschlussreich.
+Der Prozess der Vereinheitlichung ist wichtig und ein positives Ergebnis bietet viele Vorteile. Nationale Unterschiede sollten dennoch nicht außer Acht gelassen werden, denn eine zwanghafte Meinung bringt niemanden dichter zusammen. Der Meinungs- und Wissennsaustausch ist zumindest eine gute Basis für weitere Verhandlungen.
+
+Das öffentliche Interesse für die (+ePV) dürfte geringer als bei der (++DSGVO) ausfallen, denn es handelt sich bei der Verordnung um eine weiterführende Thematik. Der Schreibprozess geht nun schon über viele Jahre und ist reichlich unübersichtlich,. Viele Dokumente sind nur auf Englisch zu erhalten und der Entwurf der Verordnung wurde 2017 das letzte Mal in die deutsche Sprache übersetzt. Das sind alles Hindernisse für die Beteiligung der Bürger. Weiterhin ist die vorhandene Informationslage sehr wirtschaftlich ausgerichtet. Zur Partizipation an politischen Entscheidungen regt die Verordnung nicht an, obwohl die Thematik für alle EU-Bürger relevant ist.
 
 Abschließende Bewertung:
 
-Das Prinzip der Verordnungen: Wer sich selsbt nicht die Zeit nimmt, um seine Daten zu schützen, dem kann nicht geholfen werde.
+Bei den Verordnungen gilt das Prinzip: Wer sich selsbt nicht die Zeit nimmt, um seine Daten zu schützen, dem kann nicht geholfen werde.
 Beide Verordnungen haben ihre Lücken, Probleme und das gesetzte Ziel wird (wahrscheinlich) nie wie geplant erreicht. Dennoch sind die getroffen Regelungen wichtig und der Mehrwert überwiegt bei der Bewertung.
 
 \pagebreak
