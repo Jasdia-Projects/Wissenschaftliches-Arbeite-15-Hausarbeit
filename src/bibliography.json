@@ -395,12 +395,12 @@
   },
   {
     "id": "src:Preibusch",
-    "title": "Big Data, Small Money, No Privacy?_",
+    "title": "Big Data, Small Money, No Privacy?",
     "publisher": "Europäisches Parlament",
     "author": [
       {"family": "Preibusch, S."}
     ],
-    "type": "Article",
+    "type": "article",
     "accessed": {
       "date-parts": [
         [
@@ -518,7 +518,7 @@
   },
   {
     "id": "src:RKI-Haendydaten-tagesschau",
-    "title": "Mit Apps gegen die Pandemie?_",
+    "title": "Mit Apps gegen die Pandemie?.",
     "publisher": "tagesschau.de",
     "author": [
       {"family": "Becker, K."}
