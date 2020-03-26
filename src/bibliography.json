@@ -149,7 +149,7 @@
   },
   {
     "id": "src:KaktusKlub-Satiere-Mail",
-    "title": "Dürfen wir Sie weiter zuscheißen?_",
+    "title": "Dürfen wir Sie weiter zuscheißen?",
     "publisher": "Kaktus Klub",
     "author": [
       {"family": "o. V."}
@@ -187,7 +187,7 @@
   },
   {
     "id": "src:Facebook-Konto-loeschen",
-    "title": "Wie kann ich mein Facebook-Konto dauerhaft löschen?_",
+    "title": "Wie kann ich mein Facebook-Konto dauerhaft löschen?",
     "publisher": "Facebook",
     "author": [
       {"family": "o. V."}
@@ -338,7 +338,7 @@
   },
   {
     "id": "src:Cloud-Act_vs_DSGVO-Boerse",
-    "title": "US-Cloud Act vs. DSGVO – Steht unser Datenschutz auf dem Spiel?_",
+    "title": "US-Cloud Act vs. DSGVO – Steht unser Datenschutz auf dem Spiel?",
     "publisher": "marketing Börse",
     "author": [
       {"family": "o. V."}
@@ -518,7 +518,7 @@
   },
   {
     "id": "src:RKI-Haendydaten-tagesschau",
-    "title": "Mit Apps gegen die Pandemie?.",
+    "title": "Mit Apps gegen die Pandemie?",
     "publisher": "tagesschau.de",
     "author": [
       {"family": "Becker, K."}
@@ -556,7 +556,7 @@
   },
   {
     "id": "src:General-safe",
-    "title": "Do you think your personal data is generally safe on the internet ? ",
+    "title": "Do you think your personal data is generally safe on the internet?",
     "publisher": "Statista Inc.",
     "author": [
       {"family": "Bitkom"}
